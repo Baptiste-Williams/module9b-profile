@@ -1,2 +1,4 @@
 # module9b-profile
-Custom profile component for CS81
+
+## Description
+This is a React profile component built with Vite. Styled using inline CSS with props-based layout and themed visuals.
